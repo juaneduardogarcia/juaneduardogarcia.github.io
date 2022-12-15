@@ -1,7 +1,7 @@
 [ 
-  {"id":  0, "name": "Elden Ring"},
-  {"id":  1, "name": "Bayonetta 3"},
-  {"id":  2, "name": "Guilty Gear Strive"},
-  {"id":  3, "name": "Ghost of Tsushima"},
-  {"id":  4, "name": "Halo Infinite"}
+  {"id":  0, "name": "Elden Ring", "genre" : "RPG", "imageURL" : "https://stevivor.com/wp-content/uploads/2022/02/elden-ring-990x557.jpg"},
+  {"id":  1, "name": "Bayonetta 3", "genre" : "Action", "imageURL" : "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.0/c_scale,w_800/ncom/en_US/articles/2022/meet-the-devious-divas-and-one-bad-kitty-of-bayonetta-3/2250x1266_Ncom_Bayo3Witches"},
+  {"id":  2, "name": "Guilty Gear Strive", "genre" : "Fighting", "imageURL" : "https://www.godisageek.com/wp-content/uploads/guilty-gear-strive-ps4-ps5-review-pc-1024x576.jpg"},
+  {"id":  3, "name": "Ghost of Tsushima", "genre" : "Action", "imageURL" : "https://cdn.mos.cms.futurecdn.net/jKyZh7AmtzFheyg3GWUn3k-970-80.jpg"},
+  {"id":  4, "name": "Halo Infinite", "genre" : "FPS", "imageURL" : "https://cdn.wccftech.com/wp-content/uploads/2022/04/1366_2000.jpeg"}
   ]
