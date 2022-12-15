@@ -1,7 +1,7 @@
 [ 
   {"id":  0, "name": "Elden Ring"},
   {"id":  1, "name": "Bayonetta 3"},
-  {"id":  1, "name": "Guilty Gear Strive"},
-  {"id":  1, "name": "Ghost of Tsushima"},
-  {"id":  1, "name": "Halo Infinite"}
+  {"id":  2, "name": "Guilty Gear Strive"},
+  {"id":  3, "name": "Ghost of Tsushima"},
+  {"id":  4, "name": "Halo Infinite"}
   ]
