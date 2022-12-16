@@ -3,5 +3,14 @@
   {"id":  1, "name": "Bayonetta 3", "genre" : "Action", "imageURL" : "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.0/c_scale,w_800/ncom/en_US/articles/2022/meet-the-devious-divas-and-one-bad-kitty-of-bayonetta-3/2250x1266_Ncom_Bayo3Witches"},
   {"id":  2, "name": "Guilty Gear Strive", "genre" : "Fighting", "imageURL" : "https://www.godisageek.com/wp-content/uploads/guilty-gear-strive-ps4-ps5-review-pc-1024x576.jpg"},
   {"id":  3, "name": "Ghost of Tsushima", "genre" : "Action", "imageURL" : "https://cdn.mos.cms.futurecdn.net/jKyZh7AmtzFheyg3GWUn3k-970-80.jpg"},
-  {"id":  4, "name": "Halo Infinite", "genre" : "FPS", "imageURL" : "https://cdn.wccftech.com/wp-content/uploads/2022/04/1366_2000.jpeg"}
+  {"id":  4, "name": "Halo Infinite", "genre" : "FPS", "imageURL" : "https://cdn.wccftech.com/wp-content/uploads/2022/04/1366_2000.jpeg"},
+  {"id":  5, "name": "Genshin Impact", "genre" : "RPG", "imageURL" : "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/d8/images/methode/2020/09/30/26b53ef6-0237-11eb-88c7-25dcd0ae6080_image_hires_051230.JPG?itok=gKu8RgUe&v=1601413957"},
+  {"id":  6, "name": "Overwatch 2", "genre" : "FPS", "imageURL" : "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.0/c_scale,w_800/ncom/en_US/articles/2022/a-new-free-to-play-experience-with-35-incredible-heroes-22-global-maps-6-distinct-modes-and-more-jump-in-overwatch-2-on-oct-4/all_new_heroes_logo"},
+  {"id":  7, "name": "Neon White", "genre" : "FPS", "imageURL" : "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_1300/ncom/en_US/games/switch/n/neon-white-switch/hero"},
+  {"id":  8, "name": "Pokemon Scarlet", "genre" : "RPG", "imageURL" : "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_1300/ncom/en_US/games/switch/p/pokemon-scarlet-switch/hero"},
+  {"id":  9, "name": "The Wonderful 101", "genre" : "Action", "imageURL" : "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_1300/ncom/en_US/games/switch/t/the-wonderful-101-remastered-switch/hero"},
+  {"id":  10, "name": "Fatal Frame II", "genre" : "Survival", "imageURL" : "https://cdn.videogamesblogger.com/wp-content/uploads/2011/08/crimson-butterflies2-646x325.jpg"},
+  {"id":  11, "name": "DiRT Rally 2.0", "genre" : "Driving", "imageURL" : "https://www.carlogos.org/uploads/2021/dirt-rally-vs-dirt-rally-2-0.jpg"},
+  {"id":  12, "name": "The Legend of Zelda: Tears of the Kingdom", "genre" : "Adventure", "imageURL" : "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_1300/ncom/en_US/games/switch/t/the-legend-of-zelda-tears-of-the-kingdom-switch/hero"},
+  {"id":  13, "name": "Cyberpunk 2077", "genre" : "FPS", "imageURL" : "https://i0.wp.com/insider-gaming.com/wp-content/uploads/2022/12/cyberpunk-2077-game-of-the-year-edition-scaled-e1670012903149.jpg?resize=770%2C433&ssl=1"}
   ]
